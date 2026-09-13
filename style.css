@@ -90,7 +90,7 @@ main {
 }
 
 p {
-  font-size: var(--text-preset-7-size);
+  font-size: var(--text-preset-7-font-size);
   line-height: var(--text-preset-7-line-height);
   letter-spacing: var(--text-preset-7-letter-spacing);
 }
